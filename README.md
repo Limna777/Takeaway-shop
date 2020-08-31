@@ -28,11 +28,8 @@
 6. 学会使用 vue-lazyload 实现图片惰加载
 7. 学会使用 mockjs 模拟后台数据接口  
 
-## 3. API接口文档
 
-[项目API接口文档](https://github.com/git-canye/foodshop/blob/master/mintshop-server/API.md)
-
-## 4. 运行项目
+## 3. 运行项目
 
 **先运行服务器，再打开项目**
 
@@ -51,7 +48,7 @@
 1. 手机号登陆，输入符合格式的手机号即可
 2. 密码登陆，默认用户名abc，密码123
 
-## 5. 项目截图
+## 4. 项目截图
 
 1. 首页
 
